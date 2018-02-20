@@ -1,0 +1,88 @@
+nav ul{
+    list-style: none;
+    display: inline;
+}
+#custom-nav ul li{
+    display: inline;
+}
+.footer h3{
+    font-family: Gruppo;
+    font-size: smaller;
+}
+.footer{
+    text-align: center !important;
+    background: #3b3b3b !important;
+}
+.foot a:link {
+    color: white !important;
+}
+
+.foot a:visited {
+    color: #333333 !important;
+}
+
+.foot a:hover {
+    color: #333333 !important;
+}
+#home {
+    color: white !important;
+    height: 100%;
+    text-align: center;
+    display:flex;
+    align-items:center;
+    padding: 400px;
+    opacity: 0.5;
+}
+.full{
+    background: url('../DLGraphics/images/DL Logo Final.jpg') center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#home-b{
+    background-color: midnightblue;
+    padding: 100px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    color: white !important;
+}
+#home-c{
+    background-color: white;
+    padding: 50px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    color:black;
+}
+.space{
+    padding: 100px;
+    height:100%;
+    display:flex;
+}
+#home-d{
+    background-color: darkorange;
+    color: white !important;
+    padding: 50px;
+    height:100%;
+    display:flex;
+    align-items: center;
+}
+.list{
+    list-style-position: inside;
+}
+.line-big{
+    line-height: 200%;
+}
+.line-giant{
+    line-height: 400%;
+
+}
+
+.footer{
+    padding:50px;
+}
+.space-small{
+    padding: 50px;
+    height:100%;
+    display:flex;
+}

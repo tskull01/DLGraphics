@@ -1,0 +1,79 @@
+
+#background{
+    background: url('../DLGraphics/images/Dl background.jpg')center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#section {
+   padding: 2em 1em 1em;
+}
+
+#section ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#section li {
+    margin-bottom: 1em;
+    background: #fff;
+    color: #333;
+    border-bottom: solid;
+
+}
+#section ul li a{
+    text-decoration: none;
+    color: black;
+}
+.card {
+    padding: 1.5em;
+    margin-right: 10em;
+}
+#section-a{
+}
+#section-a h1, h2, h3 {
+    margin: 0;
+    padding: 0.5em 0;
+    text-align: center;
+    color: white;
+
+}
+#section-a h1{
+    font-family: Gruppo,"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#section-a h2{
+    font-family: Gruppo,"Bookman Old Style";
+    color: white;
+}
+#section-a p{
+    font-family: Gruppo,"Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+    color:white;
+}
+nav ul{
+    list-style: none;
+    display: inline;
+}
+#custom-nav ul li{
+    display: inline;
+}
+.footer h3{
+    font-family: Gruppo;
+    font-size: smaller;
+}
+.footer{
+    text-align: center !important;
+    background: #3b3b3b !important;
+    padding: 50px;
+}
+.foot a:link {
+    color: white !important;
+}
+
+.foot a:visited {
+    color: #333333 !important;
+}
+
+.foot a:hover {
+color: #333333 !important;
+}
